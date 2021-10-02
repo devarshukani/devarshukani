@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently tring to learn everything 🤣
 - 👯 I’m looking forward to contribute in Open Source
-- 🥅 want to Learning largescale Project Management 
+- 🥅 Want to Learning largescale Project Management 
 - ⚡ Intrests : Travel | Explore | Technology | Sports
 
 <h3 align="left">Languages & Tools</h3>
@@ -23,5 +23,3 @@
 <br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devarshukani&show_icons=true&locale=en" alt="devarshukani" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devarshukani&" alt="devarshukani" /></p>
