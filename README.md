@@ -4,7 +4,7 @@
 
 - 👨‍💻 [Portfolio](https://devarshukani.github.io/)
 
-- 🌱 I’m currently tring to learn everything 🤣
+- 🌱 I’m currently trying to learn everything 🤣
 - 👯 I’m looking forward to contribute in Open Source
 - 🥅 Want to Learning largescale Project Management 
 - ⚡ Intrests : Travel | Explore | Technology | Sports
