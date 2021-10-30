@@ -2,7 +2,6 @@
 <h3 align="center">Expanding my Knowledge Base 🧠 !!</h3>
 
 
-- 👨‍💻 [Portfolio](https://devarshukani.github.io/)
 
 - 🌱 I’m currently trying to learn everything 🤣
 
