@@ -2,17 +2,21 @@
 ## Hi there,👋 I'm Devarsh <br>
 ### Expanding my Knowledge Base 🧠
 
+<!-- 
+<h3 align="left">Projects</h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devarshukani&repo=MyLib_Android&theme=github_dark&show_icons=true)](https://github.com/devarshukani/MyLib_Android)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devarshukani&repo=MyLib_Admin_Panel&theme=github_dark&show_icons=true)](https://github.com/devarshukani/MyLib_Admin_Panel)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devarshukani&repo=MyLib_Admin_Panel&theme=github_dark&show_icons=true)](https://github.com/devarshukani/MyLib_Admin_Panel) -->
 
 
 <h3 align="left">Skills</h3>
 
-![c++](https://github.com/devarshukani/devarshukani/blob/master/c%2B%2B.svg)
-![Java](https://github.com/devarshukani/devarshukani/blob/master/java.svg)
-![Python](https://github.com/devarshukani/devarshukani/blob/master/python.svg)
-![Android](https://github.com/devarshukani/devarshukani/blob/master/android.svg)
-![AI/ML](https://github.com/devarshukani/devarshukani/blob/master/ai_ml.svg)
-![Database](https://github.com/devarshukani/devarshukani/blob/master/database.svg)
-![Linux](https://github.com/devarshukani/devarshukani/blob/master/linux.svg)
+<a href="#" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/c%2B%2B.svg" alt="devarshukani"/></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/java.svg" alt="devarshukani"/></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/python.svg" alt="devarshukani"/></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/android.svg" alt="devarshukani"/></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/ai_ml.svg" alt="devarshukani"/></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/database.svg" alt="devarshukani"/></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/linux.svg" alt="devarshukani"/></a>
 
 <h3 align="left">Contact</h3>
 
@@ -23,5 +27,6 @@
 
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devarshukani&show_icons=true&locale=en" alt="devarshukani" /></p>
+![Devarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devarshukani&theme=github_dark&show_icons=true&count_private=true)
+
 
