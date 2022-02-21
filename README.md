@@ -7,6 +7,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devarshukani&repo=MyLib_Android&theme=github_dark&show_icons=true)](https://github.com/devarshukani/MyLib_Android)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devarshukani&repo=MyLib_Admin_Panel&theme=github_dark&show_icons=true)](https://github.com/devarshukani/MyLib_Admin_Panel)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devarshukani&repo=MyLib_Admin_Panel&theme=github_dark&show_icons=true)](https://github.com/devarshukani/MyLib_Admin_Panel) -->
 
+<a href="https://devarshukani.github.io" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/portfolio.svg" alt="devarshukani"/></a>
 
 <h3 align="left">Skills</h3>
 
@@ -21,7 +22,7 @@
 
 <h3 align="left">Contact</h3>
 
-<a href="https://devarshukani.github.io" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/portfolio.svg" alt="devarshukani"/></a>
+
 <a href="https://linkedin.com/in/devarshukani" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/linkedin.svg" alt="devarshukani"/></a>
 <a href="https://instagram.com/devarshukani" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/instagram.svg" alt="devarshukani"/></a>
 <a href="https://twitter.com/devarshukani" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/twitter.svg" alt="devarshukani"/></a>
