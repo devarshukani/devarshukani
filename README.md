@@ -10,13 +10,14 @@
 
 <h3 align="left">Skills</h3>
 
+<a href="#" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/c.svg" alt="devarshukani"/></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/c%2B%2B.svg" alt="devarshukani"/></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/java.svg" alt="devarshukani"/></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/python.svg" alt="devarshukani"/></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/android.svg" alt="devarshukani"/></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/ai_ml.svg" alt="devarshukani"/></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/nlp.svg" alt="devarshukani"/></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/database.svg" alt="devarshukani"/></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/linux.svg" alt="devarshukani"/></a>
 
 <h3 align="left">Contact</h3>
 
