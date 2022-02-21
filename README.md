@@ -11,7 +11,6 @@
 
 <h3 align="left">Skills</h3>
 
-<a href="#" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/c.svg" alt="devarshukani"/></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/c%2B%2B.svg" alt="devarshukani"/></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/java.svg" alt="devarshukani"/></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/python.svg" alt="devarshukani"/></a>
@@ -22,7 +21,7 @@
 
 <h3 align="left">Contact</h3>
 
-
+<a href="mailto:me.devarshukani@gmail.com" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/mail.svg" alt="devarshukani"/></a>
 <a href="https://linkedin.com/in/devarshukani" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/linkedin.svg" alt="devarshukani"/></a>
 <a href="https://instagram.com/devarshukani" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/instagram.svg" alt="devarshukani"/></a>
 <a href="https://twitter.com/devarshukani" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/twitter.svg" alt="devarshukani"/></a>
