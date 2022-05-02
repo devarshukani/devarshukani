@@ -23,7 +23,6 @@
 
 <a href="mailto:me.devarshukani@gmail.com" target="_blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/mail.svg" alt="devarshukani"/></a>
 <a href="https://linkedin.com/in/devarshukani" target="_blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/linkedin.svg" alt="devarshukani"/></a>
-<a href="https://instagram.com/devarshukani" target="_blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/instagram.svg" alt="devarshukani"/></a>
 <a href="https://twitter.com/devarshukani" target="_blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/twitter.svg" alt="devarshukani"/></a>
 
 <br />
