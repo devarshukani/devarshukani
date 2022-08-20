@@ -1,13 +1,13 @@
 
 ## Hi there,👋 I'm Devarsh <br>
-### Expanding my Knowledge Base 🧠
+#### Expanding my Knowledge Base 🧠
 
-<!-- 
-<h3 align="left">Projects</h3>
+<a href="https://devarshukani.github.io" target="_blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/portfolio.svg" alt="devarshukani"/></a> 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devarshukani&repo=MyLib_Android&theme=github_dark&show_icons=true)](https://github.com/devarshukani/MyLib_Android)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devarshukani&repo=MyLib_Admin_Panel&theme=github_dark&show_icons=true)](https://github.com/devarshukani/MyLib_Admin_Panel)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devarshukani&repo=MyLib_Admin_Panel&theme=github_dark&show_icons=true)](https://github.com/devarshukani/MyLib_Admin_Panel) -->
+<h3 align="left">Popular Projects</h3>
 
-<a href="https://devarshukani.github.io" target="_blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/portfolio.svg" alt="devarshukani"/></a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devarshukani&repo=Chatster-LanMessenger&theme=github_dark&show_icons=true)](https://github.com/devarshukani/Chatster-LanMessenger) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devarshukani&repo=KidsEducation-LearningPlatform&theme=github_dark&show_icons=true)](https://github.com/devarshukani/KidsEducation-LearningPlatform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devarshukani&repo=MyLib_Android&theme=github_dark&show_icons=true)](https://github.com/devarshukani/MyLib_Android)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devarshukani&repo=MyLib_Admin_Panel&theme=github_dark&show_icons=true)](https://github.com/devarshukani/MyLib_Admin_Panel)  
 
 <h3 align="left">Skills</h3>
 
@@ -26,3 +26,5 @@
 <br />
 
 ![Devarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devarshukani&theme=github_dark&show_icons=true&count_private=true)
+
+![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
